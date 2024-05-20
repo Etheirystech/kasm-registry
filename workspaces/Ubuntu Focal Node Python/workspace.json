@@ -1,6 +1,6 @@
 {
   "friendly_name": "Ubuntu Focal Node Python",
-  "image_src": "blob:https://kasmregistry.linuxserver.io/652f1a70-9b82-40f0-bf83-f40ec7f95fb6",
+  "image_src": "OS_Ubuntu.webp",
   "description": "Ubuntu with node, python and VScode plugins pre installed.",
   "name": "etheirys/kasm-ubuntu:latest",
   "cores": 2,
