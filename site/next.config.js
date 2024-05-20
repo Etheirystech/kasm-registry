@@ -3,10 +3,10 @@
 const nextConfig = {
   env: {
     name: 'Etheirystech',
-    description: 'The official store for Kasm supported workspaces.',
+    description: 'Etheirystech Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/Etheirystech/kasm-registry/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://etheirystech.github.io/kasm-registry/',
+    contactUrl: '',
   },
   reactStrictMode: true,
   swcMinify: true,
